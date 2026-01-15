@@ -1,0 +1,8 @@
+{
+  "name": "WebSolutions Tech Clone",
+  "description": "A high-performance, modern web development agency website featuring a sleek UI, responsive design, and an integrated Gemini-powered project consultant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
