@@ -33,8 +33,8 @@ const Navbar: React.FC = () => {
               <span className="text-white font-bold text-xl">W</span>
             </div>
             <span className={`text-2xl font-bold tracking-tight ${scrolled ? 'text-slate-900' : 'text-slate-900'}`}>
-              WebSolutions
-            </span>
+              alomgir
+              </span>
           </Link>
 
           {/* Desktop Nav */}
